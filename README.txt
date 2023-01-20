@@ -7,7 +7,7 @@ sub-folder. It creates a new folder with the current date appended to the name "
 moves the files to that folder.
 
 Usage
-    Unzip Folder
+    [Unzip Folder if Python is not installed (NOT TESTED)]
     Simply click DownloadsArchiver.py
 
     Make sure you have Python installed on your computer.
